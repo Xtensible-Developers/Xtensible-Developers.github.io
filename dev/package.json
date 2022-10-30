@@ -1,0 +1,17 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bson_dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bson_dev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bson": "^4.7.0",
+    "uuid": "^9.0.0"
+  }
+}
